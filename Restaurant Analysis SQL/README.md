@@ -29,7 +29,9 @@ Understand trends in order volume across the available date range.
 * Category-level breakdown revealed distribution of dishes and average category pricing.
 * Determined the earliest and latest order dates and total orders in the time period.
 * Found the orders containing the highest number of items and counted large orders (12+ items).
-* Combined menu_items and order_details to determine:
+
+Combined menu_items and order_details to determine:
+
 * Most ordered and least ordered items.
 * Most popular item categories.
 * Highest-spending customers/orders and category breakdown of their spending.
