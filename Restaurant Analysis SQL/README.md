@@ -49,7 +49,10 @@ README.md
 # OUTCOME
 
 > Improved visibility into menu performance and pricing strategy.
+
 > Identified high-demand items and category strengths.
+
 > Insights into customer ordering patterns and large-order trends.
+
 > Ability to optimize pricing, item placement, and operational planning based on data.
 
