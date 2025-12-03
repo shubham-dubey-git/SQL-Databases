@@ -35,7 +35,9 @@ Understand trends in order volume across the available date range.
 * Highest-spending customers/orders and category breakdown of their spending.
   
 # TOOLS 
+
 SQL (MySQL) – data extraction, joins, aggregation, and analytics.
+
 Restaurant database structure: menu_items and order_details tables.
 
 # PROJECT STRUCTURE
